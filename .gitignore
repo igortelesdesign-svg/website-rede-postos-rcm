@@ -6,3 +6,8 @@ coverage/
 *.log
 .env*
 !.env.example
+
+# Backups locais
+*.bak
+*.bak-*
+src_backup_antes_fiel/
