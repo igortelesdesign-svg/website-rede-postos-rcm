@@ -11,3 +11,4 @@ coverage/
 *.bak
 *.bak-*
 src_backup_antes_fiel/
+*.bak*
