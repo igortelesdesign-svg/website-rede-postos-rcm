@@ -1,0 +1,6 @@
+{
+  "name": "Rede de Postos RCM",
+  "description": "Website institucional e plataforma de gestão da Rede de Postos RCM - Unidades, Produtos, Serviços, RCM News, Ações, Transportadora, Classificados e Atendimento.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
